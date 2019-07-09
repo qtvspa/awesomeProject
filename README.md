@@ -1,0 +1,2 @@
+# awesomeProject
+some go exercises
