@@ -1,2 +1,1 @@
-# awesomeProject
-some go exercises
+一些学习go时的代码片段
