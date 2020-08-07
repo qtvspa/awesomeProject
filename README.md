@@ -1,1 +1,1 @@
-一些学习go时的代码片段
+- Some code snippets when learning GO
